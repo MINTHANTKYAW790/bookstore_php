@@ -1,0 +1,27 @@
+.navIndex {
+    background-color: transparent;
+    color: white;
+}
+.navBooks {
+    background-color: #f07c29;
+    color: white;
+}
+
+.navAuthors {
+    background-color: transparent;
+    color: white;
+}
+
+.navCategories {
+    background-color: transparent;
+    color: white;
+}
+
+.navAdmin {
+    background-color: transparent;
+    color: white;
+}
+.navMenu:hover {
+    background-color: #f07c29;
+    color: white;
+}
